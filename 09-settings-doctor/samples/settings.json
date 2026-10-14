@@ -1,0 +1,7 @@
+{
+  "app_name": "Notebook",
+  "port": 8080,
+  "debug": false,
+  "data_dir": "data",
+  "allowed_hosts": ["localhost", "example.test"]
+}

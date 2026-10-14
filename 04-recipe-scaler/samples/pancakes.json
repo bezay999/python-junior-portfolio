@@ -1,0 +1,9 @@
+{
+  "name": "Weekend pancakes",
+  "servings": 4,
+  "ingredients": [
+    {"amount": "2", "unit": "cups", "name": "flour"},
+    {"amount": "3/4", "unit": "cup", "name": "milk"},
+    {"amount": "2", "unit": "", "name": "eggs"}
+  ]
+}
