@@ -17,8 +17,6 @@ There is no shared framework to set up. Pick a folder, read its short README, an
 | 09 | [Settings Doctor](09-settings-doctor/README.md) | Checks a JSON configuration and explains what is wrong. |
 | 10 | [Word Rack Helper](10-word-rack-helper/README.md) | Finds dictionary words that can be built from a set of letters. |
 
-The projects are deliberately different from my [Java portfolio](https://github.com/bezay999/java-junior-portfolio). Here the focus is on Python's file handling, standard-library modules, simple parsing, and small functions that are easy to test.
-
 To run every test from the repository root:
 
 ```bash
